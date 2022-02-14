@@ -1,0 +1,1 @@
+web gunicorn boxes.wsgi:application --log-file -
